@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theavrauiohn high priest to the Ievves, his disputive challenge to the universities of Oxford and Cambridge, and the whole hirach. of Roms clargical priests.</title>
+            <author>Tany, Thomas, fl. 1649-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94531</idno>
+            <idno type="STC">Wing T152B</idno>
+            <idno type="STC">Thomason E656_10</idno>
+            <idno type="STC">ESTC R206604</idno>
+            <idno type="EEBO-CITATION">99865723</idno>
+            <idno type="PROQUEST">99865723</idno>
+            <idno type="VID">166083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theavrauiohn high priest to the Ievves, his disputive challenge to the universities of Oxford and Cambridge, and the whole hirach. of Roms clargical priests.</title>
+                  <author>Tany, Thomas, fl. 1649-1655.</author>
+               </titleStmt>
+               <extent>7, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Madan.</note>
+                  <note>With an engraving of a sword and Tany's arms on page [8].</note>
+                  <note>A ranting discourse by a half-witted man, of no importance. -- Madan.</note>
+                  <note>Annotation on Thomason copy: "March. 15. 1651.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166083:1" rendition="simple:additions"/>
+            <head>THEAVRAUIOHN High Prieſt to the IEVVES, HIS Diſputive challenge to the Univerſities of <hi>Oxford</hi> and <hi>Cambridge,</hi> and the whole Hirach. of <hi>Roms</hi> Clargical <hi>Prieſts.</hi> 
+               <note place="margin">
+                  <hi>If the States, or men, or man, would hear of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, live at</hi> El<g ref="char:EOLhyphen"/>tham, <hi>but at M.</hi> Giles Calverts <hi>at the Black ſpred-Eagle, at the Weſt end of</hi> Saint <hi>Pauls church there you may be dire<g ref="char:EOLhyphen"/>cted to my lodging, for know all peo<g ref="char:EOLhyphen"/>ple that I turn my face from no man upon Earth.</hi>
+               </note>
+            </head>
+            <head type="sub">In <hi>Amazanorum, Salmam, Addah.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg> Early Beloved, The beauty of Excellency hath ſo farre unvailed it felf, that the ſhining thereof is ſo ſtrong, that it hath cauſed the dead to raiſe their dark malice to perſecute the Dove of innocency, the innocent Dove <hi>Theauran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn</hi> your Brother; who are the firſt fruits in that holy lump, or holy compoſed figurative Figure in <hi>SABA EL:</hi> But Beloved, my Bonds and Impriſonments, they are for the hope ſake that God left in Oath unto our fore-father the Jewes, that he would gather their Branches (We their children) his diſperſed ones, and build her whom he had deſtroyed; and for the truth in that Oath, for the perfor<g ref="char:EOLhyphen"/>mance thereof unto you my Brethren, God hath ſent me forth (the <hi>High-Prieſt</hi> of God, and Recorder to the thirteen Tribes of the Jewes) for the return of the captivity.</p>
+            <p>And know all people that my deſent in my Line, I am inferior unto no man upon the whole Globe, and yet I was made a <hi>Joſeph</hi> unto my Parents, for they were poor through the Tyrannical power reigning in the <hi>Norman</hi> Yoak,
+<pb n="2" facs="tcp:166083:2"/>he ſubdued the Noble <hi>Saxon</hi> Line, and deprived it of its right of regency. My deſent is in the Tribe of <hi>Reuben</hi> of the Houſe of <hi>A<g ref="char:V">Ʋ</g>STRIA,</hi> as <hi>Eng<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Spain</hi> ſhall witneſs; as alſo the Record of my Generalogy will make appear.</p>
+            <p>And now my Brethren the Jewes, in and for whoſe defence I ſtand, and for the Oath made unto our twelve Tribes, but in this return 13 Tribes; as I ſhall de nonſtrate unto the clear view of them it doth concern.</p>
+            <p>And now my Brethren, for the demonſtration of the glorious clothing wherewith my God hath clothed me withall, I do challenge the Univerſi<g ref="char:EOLhyphen"/>ties of <hi>Oxford</hi> and <hi>Cambridge,</hi> as alſo the Aſſembly of deſſembling, deceived, and deceiving Clergie; to diſpute in giving or taking the ſtate in any Divine Miſtery or created thing; in the depth of height, or in the heighth in the depth of that Hight which is in <hi>Ori. All Abſalamss Am.</hi> Alſo I challenge the whole Hirarchie of <hi>Rome, Et omnia in Terra hominem in ſe.</hi> That word <hi>ſe</hi> holds in its imbodiment all learned Clergical men, and againſt no other will I diſpute, but onely againſt the head of the Baalliſts and the Harlots children; and know, I will not deſpute but before an audible number Oratoried, or be<g ref="char:EOLhyphen"/>fore the States of the Land; and if I do not confound yee Prieſts, and all men, then know. I am not the High-Prieſt, neither am I ſent for the return of the Captivity, nor the gathering the people in peace, which is the word of God, binding us up together into the unity of one Spirit.</p>
+            <p>And if you dare not appear to deſpute, then know, I take your ſilence to conſent to my affirmation; and further know, that if you, out of all your numbers of learned men, yee cannot ſelect men, or man to appear as your Champion to maintain your cauſe; then know ye, that you are Liars, Chea<g ref="char:EOLhyphen"/>ters, and Deceivers, and dare not come to the Light: And know, your old trade of lies, it muſt be maintained by and with falſe Oaths, for to cry Blaſphemy, and Blaſphemers, when you are not able for to anſwer or defend your ſelves; neither dare bring your lies unto the Teaſt: Now by that word Teaſt, know, I was and am the Gold-ſmith, and God hath made me the Re<g ref="char:EOLhyphen"/>finers fire, to refine the Gold from the droſs, which is but thus much, to ſeparate ye Prieſts from your trade of lies.</p>
+            <p>Now if you be in the light, and as you ſay the Miniſters of the Goſpel, I pray you be not aſhamed both of your meſſage and your Maſter; and know, that on the fifth day of <hi>April</hi> 1652. (but this account is falſe) in Saint <hi>Pauls,</hi> that old called Church, but now that new made Stable, there I ſhall appear, as a place free for men to meet in peace, for to be confirmed in the word, if Life be in themſelves; for my Sheep ſhall hear my voyce, but a Stranger they will not hear; and my Sheep are not women, but Men; no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:166083:2"/>men, but Man; not man, but the Sons ſons of God ſhining in the beauteous Excellency; which is the glorious declarative of the eternal Deity <hi>in Se.</hi>
+            </p>
+            <p>And know all people, I am not learned in what I declare, neither yet could I ever ſpeak unto the people, nor deſpute, but read unto the people what I had wrote; but in my ſix months Impriſonment, in <hi>Newgate</hi> and the <hi>Kings-bench,</hi> in them two Land-Colledges I have taken my Degrees; and my Docter-ſhip is advanced over <hi>Omnia terra,</hi> yet in <hi>Se, &amp;</hi> in <hi>Se.</hi> But becauſe <hi>Kings-bench</hi> is an excommunicated word amongſt the great ones in our land, yet the poor of the land feels the ſame nature in the Law; for before it was <hi>Leo,</hi> but now it is <hi>Vulpes,</hi> that is, (to ſtretch the words in their intent, unto their full extent) it is a <hi>Fex</hi> wraped in a <hi>Lion's</hi> skin; My Nobles, this <hi>Fox</hi> I muſt Caſt out of this <hi>Lion's</hi> skin, that is, when the Devill is caſt out of decei<g ref="char:EOLhyphen"/>ved men, for know, names are no things.</p>
+            <p>Now my Brethren, both Iewes and Gentiles, let the curſe of my God light upon my underſtanding, if ever I ſhall forecaſt to ſet, or cauſe to com<g ref="char:EOLhyphen"/>poſe two words together to give any denotation by, thus farre am I from lerning any thing, that my prayer is this, <hi>Arki ſelexſi ori am;</hi> the Engliſh is, In thy ſtrength O my God deliver me from my own wiſdom, for it is the Devil.</p>
+            <p>Now Brethren, I have lien neer ten months wating for the word, an 100 and fifty dayes in purification for receiving the word, and it is ſaid unto me, that on the fifth of <hi>April</hi> my mouth ſhall open, for I have been dark, and have had no light. but now in confidence of that word that hath ſpoken vn<g ref="char:EOLhyphen"/>to me, I write unto you my Brethren, and you of the greateſt learning I do not exempt; and on that day being the fifth of <hi>Apr.</hi> to be in that place, <hi>Pauls Church,</hi> and ſo weekly to meet and declare what God ſhall diſcover unto me or any of my Brethren, whom God hath fvrniſhed for the gathering the people into the unity, out of this confuſed variety; and we meeting in peace, according to the Act of State giving us Authority thereunto: And further we do intreat, that we in ſo meeting in Innocency, may be and have preſervation by the Law, as our Birth-right of integiity, this I intend, if your lying Spirits, Devils, Devils Spirits do not hinder me.</p>
+            <p>But I hope the State will not wilfully ſhut their eyes againſt the light, but be glad and rejoyce to hear and ſee the truth drawn from the ly, which are yee called Prieſts, for you ſay that you are called and ſent of Chriſt; it muſt be then meſſengers of his ſecond comming, that is, to reſtore the cap<g ref="char:EOLhyphen"/>tive Iewes according to the promiſe, and then your declarative muſt be in the height, in the Divine wiſdom, in the Beauteous Excellency, and dele<g ref="char:EOLhyphen"/>ctable Oratory; and now, if your learning will over-reach my wiſdom and
+<pb n="4" facs="tcp:166083:3"/>knowledge, (though I am unlearned, then I will ſubſcribe unto you, and write THEAURAU JOHN <hi>High-Prieſt</hi> no more. But be you ſure I will be there, and I expect the tryal of your ſelected choyce, that makes me give you warning before to provide.</p>
+            <p>Now though I expect a Champion of yours, out of all the choyce of your glorious numbers, as you tearm them, even I expect and look for the ſelect Ey of your whole conclave I deſire that he may be free from himſelf in perſe<g ref="char:EOLhyphen"/>cution of others, for perſecution is of mans ſelf-will, which is in deed and in truth the Devil in man; now where you ſee perſecution in man, that is the very Devil in man; nay properer Devel-man, man-Devil; that is, Satan that deceiver, that Man ſlayer, that Murtherer, who was a Lyar from the beginning.</p>
+            <p>Now I will deſipher out unto the clear view of all people, who are the ſons of God, and who are the <hi>Devils moones</hi> or Devils children; <hi>Aſaphel arki,</hi> that is, Devils of ſtrength and might.</p>
+            <p>Firſt, Gods ſons who are reſtored by <hi>Maſſah</hi> or Chriſt, they are children of obedience, acting in love unto all, even unto the children of darkneſs or Devils children, Not forgetting what they were reduced from before they were made obedient in light; and in love they do demonſtrate by their love<g ref="char:EOLhyphen"/>lineſs in walking in the beams of Excellency, which is the light of love, and it is love that giveth darkneſs, or Devils light and ſight, and doth abſtract their dackneſs into lights own Ey, then that that was a Devil or darkneſs, is made light, acting in love, then them two contraries by light is reconciled unto the unity of one Spirit, and then behold all is then very good in all all one unto all, the all, which is but one All in the all of all things.</p>
+            <p>Now you that are in darkneſs, that is <hi>Mone</hi> children, or children of the Devil, you alwayes act your Fathers work, which was, and is perſecu<g ref="char:EOLhyphen"/>ting the light, which are the children of God.</p>
+            <p>Now by your perſecuting <hi>Any,</hi> you ſhow you are Devlis, and in darkneſs, for perſecuting, it is from the Devil, for God and Chriſt is love and in love, there is no perſecution; for know, affoon as you appear in perſecution, that man doth declare abſolutely that he is poſſeſſed with the Devil.</p>
+            <p>For know that if ye be in light, you love them that are in darkneſs, and in the bands of the Deuil, becauſe your ſelves were in darkneſs before you were made light by that glorious Spirit of Chriſt the Lord, who hath caſt forth your envious Devil, and turned you into the light of Life, which is the Spirit of the living God.</p>
+            <p>Look upon Chriſts own example, I do not bid you look unto his words, for ye perſecutors are all words, but no Foundation; or example in the truth, as by
+<pb n="5" facs="tcp:166083:3"/>your perſecuting you declare your ſelves for to be the Devils children, and you fetch your coloured Cloak from Chriſts own words, ſo indeed you are Angels in words, but in action you are perſecuting Devils.</p>
+            <p>Now you Perſecutors, you dwell in formes, and know the form of the thing is not the true thing, for the true light it is not in any mans forme, or formed, or forming; but it is Truth in its own root, unforming your In<g ref="char:EOLhyphen"/>dependancy, your Annabaptiſme, and your Antinomiſme, and your Presby<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aniſme, and your Judiſme, and all the reſt of theſe Baſe, Beggerly pached Cloaks of Knavery, under which ſo many Woolfiſh Devils walk, devouring one another, and this is Religion; which whilſt you are devouring one ano<g ref="char:EOLhyphen"/>ther, you muſt have Chriſts cloak to cover all your Villany under what kind of devouring ſoever. Now know that all Religion is a ly, and a cheat, a deceat; for there is but one Truth &amp; that is Love, &amp; that devoureth, not neither de<g ref="char:EOLhyphen"/>ſtroyeth any man, but lives in its own fire, fed with its own heat, beholding all Beutious, deſiring no part, but unto all alike, alike unto all: Love it is <hi>Salma Oriam,</hi> that is, it is the adornative beauty of ſelect vertue.</p>
+            <p>Now if you be in the Goſpel of Light, you muſt ſee none poor, neither in need, neither can you be in true Love, unleſs all have an enjoyment as your ſelves, and none want; for God is light, filling all his Creation with the Beames of his fulneſs, and if his fulneſs hath ſo ſhined upon thee, as to write upon thee <hi>Digitus Dei,</hi> then thou walkeſt in light, acting in Love, and thy Sealing of light is demonſtrated unto all in need; in acts of mercy and compaſſion; I had need to ſpeak plain them words, the meaning is, thou ſhouldſt not have it by thee and let any want, if thou doeſt, as the Lord lives thy Religion is all lies, &amp; the Devil himſelf reigns in thy heart uncaſt forth.</p>
+            <p>Now your old way of your lying Appol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onian Spirit, which is the Fa<g ref="char:EOLhyphen"/>ther of all your litteral learned Clergical Prieſts, when you are not able to reach or underſtand the Truth in the Spirit of light, then your Abbadoniſme of aſperſions is caſt forth, crying that the men are Blaſphemors, Witches, Sorcerers, Deceivers, aud of the Devil.</p>
+            <p>Now hear in this very cry of aſperſion, if truſy viewed, you in your lying colors are clearly deſiphered out, for know, they or that which accuſeth it, is a Devil; a deceived Spirit, for if you were in light, then you were in Love, then no accuſation but Love, and that acting in mercy; for the Reducement of them that are Deceived and in darkneſs <hi>Sabeanus alla Sam ardi peleg ory,</hi> the Engliſh is, The ſaſe light accuſeth not, but it is the Non reſident that flieteth crying, <hi>Segad,</hi> that word holds the full import.</p>
+            <p>Now my Brethren both Jewes and Gentiles, ſince the power of my God did overpower my underſtanding, and manhood, wiſdom; which is indeed the very Devil in man, and this Devil did the Lord caſt forth of me, when
+<pb n="6" facs="tcp:166083:4"/>the power of my God in mercy fell upon me ſmiting me dead unto the earth; then I ſaw the great light ſhine in me, and upon me, ſaying, <hi>Theau<g ref="char:EOLhyphen"/>rau John</hi> my ſervant, I have choſen thee my Shepherd, thou art adorned with the jewel of Exceliency, and this ſaying or voice ſpeaking I heard when I was with God in the High and holy Mount; O Beloved, this ſaying is ſtrange in our dayes, but it was and is true, for it was in Gods own time, and he is not confined unto mens writings, as in the Bible and Teſtament, but he is that eternal Root, that light, that life for ever ſtable, and yet he is the cauſe of all moving Motions; for hee is the Center in which all is centered, he is <hi>Sabiamus, Arby, Allat, Arki.</hi> AZZIEL.</p>
+            <p>Now who amongſt you have I wronged, and whoſe have I coveted, who amongſt you can tax me for diſorderly walking? I confeſs, before I was a covetous Devil, even ſuch as you are, who are in love with money, gathering from others to fill your unſatiated deſires, and yet you pray and go to Church nay congregated, but it is in the Devils company; for God is Love, illuſterating forth Beams of mercy, and you are Devils, by detract<g ref="char:EOLhyphen"/>ing from others by craft of villainy to inrich your ſelves.</p>
+            <p>Now I intreat this and no more favour, that when God ſhall open my mouth, you that intend to perſecute when my words are ſpeaking, bid me deliver that ſtate in writing unto you, and I will do it; for what I ſhall de<g ref="char:EOLhyphen"/>clare, I will give it under my hand, and alſo maintain it; and now do not you go and coyn your inventions out of my words, for then it doth become your own invention, and not my words: This I know, that <hi>Abbadons</hi> ſpi<g ref="char:EOLhyphen"/>rits lies in wait to entrap innocents, which indeed is but the Devil, Perſecu<g ref="char:EOLhyphen"/>ting of the Children of light.</p>
+            <p>Yee my Nobles and States of <hi>England,</hi> I write cloaſe, and ſure, for my charge for couqueſt is for overcoming the whole learned Clergy in the world, and hear my Lord <hi>Oliver Cromwel,</hi> נכ I claim protection from you, by vertue of the Oath you have ſworn unto the People, and confirmed it by many reitterations, vowes, and proteſtations, as that proteſt at <hi>Huntington</hi> in the Market-houſe, my SELF there preſent, and thoſe words I challenge you to make good which you declared, the words were theſe: You ſought not ours, but us; and our welfare, and to ſtand with us for the liberty of the Goſpel, and the Law of the Land.</p>
+            <p>And now we have overcome our enemies, we muſt not name either law or Goſpel in the truth of them; as for my part I have ſuffered ſix months Impriſonment within three dayes, this very hour for theſe words; being the main charge againſt me charged, the words are theſe: I ſaid that Hell and Damnation were not as the Miniſters held forth, neither as it is written
+<pb n="7" facs="tcp:166083:4"/>in the inſert or Bible, this is my charge, and I leave it to the <hi>State</hi> to inter<g ref="char:EOLhyphen"/>pret their own Act, and when they know whoſe Act it was I was condemn<g ref="char:EOLhyphen"/>ed by, they ſhall know I had not tranſgreſſed, and in ſeeking for Right by Law, there I found a formality to chreat me of my money; ſo now I finde that there is neither Law nor Goſpel, but mans wil ſtanding in ſtrength for both; ſo a dear purchaſe I have bought in ſtanding for the Parliament, which word Parliament right conſtrued, is the truth of the Nations Right, the Nations Right ſtated in truth, which in patience I waite for: For know, as the Lord lives, down all ſhall come, for there is one turn yet more, look to it, My Lord it concerns you: <hi>Arba Arraxſi Sabbuoli odi Okron.</hi> Read them words Schollars, then <hi>Exce.</hi> yours who are in love, and that love declared by a holy life: <hi>Theaurau John, Taniour High Preiſte.</hi>
+            </p>
+            <p>Now my Nobles of <hi>England,</hi> will it not appear ſtrange to the World, that a man that is unlearned in what he diclares, and never could deſpute, but wrote and read the writing, and hath challenged and called for an Anſwer to the whole people of the world, and none is found able to anſwer my Books; the firſt is <hi>Theaurau John His Au ora In Tranlagorum In Salem Gloria L.</hi> The ſecond Book is, <hi>Theaurau John</hi> His <hi>Theos Ori Apocalippical,</hi> or Gods light declared in Miſteries; Theſe Books are all to be had at <hi>Giles Calverts</hi> (at the black Spread-Eagle at the Weſt end of Saint <hi>Pauls</hi> Church) Book<g ref="char:EOLhyphen"/>ſeller. Now, If the Clergical Prieſts had but anſwered my Books, and con<g ref="char:EOLhyphen"/>vinced me, before they falſly perſecuted and impriſoned me; but it is too high for their learned trade of Lies to anſwer, nor is there any man living in the Earth, that is able to anſwer the Books; this I know by my rule in Light, they durſt not take my books and charge me in what I had ſaid, but coined their ASS like nonſenſes upon my words, that is, thus he ſaid ſo, meaning ſo; <hi>Then know yee ASSES,</hi> that then it is your meaning ſo, and not ſo my Words. Now Prieſts, will it not redound to your ſhame to perſecute that light that all your blind lying learning is not able to anſwer, this ſhewes you to be Cheats and Deceivers of the people, and if you will but anſwer what your Trade of Lies will reach to, I will not Print the ſecond part of my Book called <hi>Theos Ori Apocalippical,</hi> for it is Higher wrote. You have for<g ref="char:EOLhyphen"/>gotten the <hi>Apoſtles</hi> being unlearned, that they overcame the great <hi>Rabbies:</hi> Know, a greater work then that God is bringing forth by me and my bre<g ref="char:EOLhyphen"/>thren, and we are not lyingly learned, in which you ſo much glory.</p>
+            <p>Brethren, what I have worte, I will maintain, and what I write I am the ſame, But when I was a childe, I ſpake as a childe, and ſo I acted, but now behold childiſhneſs is vaniſhed away <hi>OPHIEI. EL.</hi> I am in Priſon at the writing hereof, and the Priſons were alwayes the Prophets
+<pb facs="tcp:166083:5"/>Schooles, we read true Lectures in the empty walls, in our reſtralnt, with<g ref="char:EOLhyphen"/>out <hi>Baals</hi> Books, in which ye learned Prieſts ſo much glory.</p>
+            <p>But beloved Brethren it is for your ſakes, yee beuteous Sons and Daughters of <hi>Sion,</hi> and <hi>Iſraels</hi> Seed, unto whom the Lord will make good his Oath that he hath ſworn unto our Fore-fathers, which is our <hi>Return</hi> from our Capti<g ref="char:EOLhyphen"/>vity, and the again building the glorious, glorifying, and glorified Temple; Even in <hi>Jeruſalem:</hi> Then, then, then, <hi>O Hallilujah AL Sabiamus AM.</hi>
+            </p>
+            <p>O yes. Any manner of men or man, Citty o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country, in <hi>Oxford</hi> or <hi>Cambridge,</hi> that can bring me word of any Clergicall Prieſts or Prieſt that can anſwer my Books aforenamed, upon appearanee in full import of intent and Extent, they ſhall be all well rewarded for their paines. So God ſave the True State of <hi>England,</hi> and from all our Woolviſh enemies, good Lord deliver us.</p>
+            <p>Brethren, this I commit unto your underſtanding, and let them that it conterns or are not ſatisfied let them make ſearch into the <hi>Heraldry</hi> where I have ſuffered great Defraudations, for there hath been as great a perjured Villany to uphold and ſecure this baſe pached <hi>Normane</hi> race, as ever was in any Land under the whole <hi>Horiſcope</hi> of Heaven: I know what I write, though it be dark unto you. But I ſhall find out all the cheats in <hi>Herraldry</hi> without reading any Books of their Anceſtors percuſſed perjury, which hath been a Trade too common in our Land, as the demoliſhing whole Fa<g ref="char:EOLhyphen"/>milies, and race the due deſent Heridically; Which Heraldry it is in truth Gods ſeal, or Gods diſtinctions rectifying his Children in their Eſſential Rites, rightly Eſſencied. Temporal, and it is a glorious Maxim, truly defin<g ref="char:EOLhyphen"/>ing, Litterally decending, and in Truth tying every one in his Linnage, in his birth right by Linneal deſent; Now where is <hi>Henry</hi> the 8 that rob'd ſo many Families: Now our Lands being freed from the <hi>Norman</hi> ſubjection, we may lawfully claim our Lands and Inheritatce in the Common-wealth, as in cue right they by the Law of God and man do unto us belong, and unto us ought to be delivered: My Name hath held al theſe changes in <hi>England</hi> from its Original, being the Hebrue <hi>Tan, Tani, Tanni, Tangoy, Toni, Totni, Totne<g ref="char:EOLhyphen"/>ſes</hi> but now in this <hi>return</hi> of the Captivity of the Jewes my Brethren, my God hath ſealed me with his glorious Seal, that is, <hi>Ruben, Theaurau John, Taniour, Allah, AL,</hi>
+            </p>
+            <p>
+               <hi>Aeglicie Roma Adma In Sab Appoſtalie Appendex in R Palma Auſtria al Now ſearch your antienteſt Records and you ſhall find me,</hi> TRU</p>
+            <p>
+               <hi>I bear</hi> 3 <hi>Sabbs, Alba, and</hi> 3 <hi>Aſzure, or</hi> 3 <hi>Barreſe</hi> BLU.</p>
+            <figure>
+               <figDesc>Sword and coat of arms</figDesc>
+               <p>Theaurau Iohn tany our High priest, recorder of y<hi rend="sup">e</hi> tribes of y<hi rend="sup">e</hi> Iewes for y<hi rend="sup">e</hi> Cap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iuities Returne.</p>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
